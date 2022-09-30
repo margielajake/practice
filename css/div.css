@@ -1,0 +1,133 @@
+body{
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.red{
+ background-color: red;
+ width: 100px;
+ height: 100px;
+ display: inline-block;
+}
+
+.green{
+ background-color: green;
+ width: 100px;
+ height: 100px;
+ border-radius: 100%;
+ display: inline-block;
+}
+
+.customer{
+ border: 1px solid rgb(153, 153, 153);
+ padding: 15px;
+ margin-top: 15px;
+ width: 350px;
+}
+
+
+.youtube{
+ background-color: rgb(56, 56, 56);
+ color: #fff;
+ width: 450px;
+ padding: 15px;
+ margin-top: 20px;
+}
+
+.youtube h1{
+ font-size: 30px;
+ margin-bottom: 0;
+}
+
+.youtube p{
+ margin-top: 10px;
+ color: gray;
+}
+
+
+.pfp {
+ width: 50px;
+ border-radius: 25px;
+ vertical-align: middle;
+}
+
+.tweet-paragraph {
+ vertical-align: middle;
+ padding-left: 15px;
+ display: inline-block;
+}
+
+.tweet {
+ background-color: rgb(30, 115, 243);
+ color: #fff;
+ border: none;
+ padding: 12px 30px;
+ font-size: 20px;
+ font-weight: bold;
+ border-radius: 30px;
+ margin-left: 100px;
+ text-align: center;
+ vertical-align: middle;
+ display: inline-block;
+
+}
+
+.tw {
+ /* display: flex;
+ align-items: center; */
+ display: inline-block;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+ padding: 5px 10px;
+ width: 480px;
+ border-radius: 10px;
+}
+
+.facebook{
+ display: inline-block;
+ box-shadow: 3px 5px 15px rgba(0, 0, 0, 0.1);
+ padding: 15px;
+}
+
+.facebook img{
+ width: 250px;
+ margin-bottom: 10px;
+}
+
+.facebook h4{
+ margin-top: 0;
+ margin-bottom: 10px;
+}
+
+.facebook p{
+ margin-top: 0;
+ font-size: 18px;
+ color: gray;
+}
+
+.facebook button{
+ background-color: rgb(20, 85, 228);
+ border: none;
+ color: #fff;
+ padding: 10px 20px;
+ border-radius: 5px;
+}
+
+.google-search {
+ width: 700px;
+ height: 60px;
+ border-radius: 200px;
+ border: 1px solid #fff;
+ padding-left: 15px;
+ box-shadow: 0px 0px 10px rgba(184, 183, 183, 0.8);
+ margin-top: 20px;
+}
+
+.google-home{
+ text-align: center;
+}
+
+.google-home button{
+ border: none;
+ padding: 15px 40px;
+ margin-top: 25px;
+}
+

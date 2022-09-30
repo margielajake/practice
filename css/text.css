@@ -1,0 +1,186 @@
+.tahoma {
+ font-family: Tahoma, Geneva, Verdana, sans-serif;
+ font-size: 40px;
+ font-weight: bold;
+
+}
+
+.arial {
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.arial1 {
+ font-size: 40px;
+ font-weight: bold;
+}
+
+.sales {
+ color: red;
+}
+
+.apple-ad {
+ text-align: center;
+}
+
+.apple-new {
+ color: rgb(233, 49, 49);
+ margin-bottom: 0;
+ font-weight: bold;
+}
+
+.macbook-text {
+ font-size: 30px;
+ font-weight: bold;
+ margin-top: 5px;
+ margin-bottom: 0;
+
+}
+
+.supercharged {
+ font-size: 50px;
+ font-weight: bold;
+ margin-top: 0;
+ margin-bottom: 0;
+}
+
+.price {
+ color: #333;
+}
+
+.buy-button {
+ color: white;
+ background-color: cornflowerblue;
+ font-weight: bold;
+ border: none;
+ padding: 5px 15px;
+ border-radius: 15px;
+ margin-top: 10px;
+
+}
+
+.stock {
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.first-line {
+ font-size: 40px;
+ margin-bottom: 0;
+}
+
+.currency {
+ font-size: 20px;
+ color: #333;
+
+}
+
+.middle-text {
+ color: rgb(27, 155, 27);
+ font-size: 20px;
+ margin-top: 5px;
+ margin-bottom: 0;
+}
+
+.bottom-text {
+ color: gray;
+ font-size: 20px;
+ margin-top: 5px;
+}
+
+.red {
+ color: red;
+}
+
+.img1{
+ width: 200px;
+ border-radius: 10px;
+}
+
+.img2{
+ width: 150px;
+ height: 150px;
+ object-fit: cover;
+ object-position: center;
+}
+
+.img3 {
+ width: 200px;
+ border-radius: 100px;
+}
+
+.search{
+ height: 40px;
+ border-radius: 5px;
+ border: 1px solid #333 ;
+ padding-left: 10px;
+}
+
+
+p{
+ font-family: Arial, Helvetica, sans-serif;
+ margin-bottom: 0;
+ color: gray;
+}
+
+.linkedin{
+ margin-top: 5px;
+ width: 450px;
+}
+
+.signup{
+ margin:20px 0;
+ padding: 20px 150px;
+ border: none;
+ border-radius:50px ;
+ color: #fff;
+ text-align: center;
+ background-color: rgb(23, 103, 252);
+ font-size: 25px;
+ cursor: pointer;
+}
+
+
+
+
+.block{
+ display: block;
+ margin-bottom: 5px;
+}
+
+.block-paragraph{
+ display: inline-block;
+ width: 250px;
+ vertical-align: middle;
+}
+
+.block-button{
+ vertical-align: middle;
+}
+
+.firstname{
+ padding: 10px 10px;
+ border: 1px solid grey;
+ border-radius: 5px;
+ width: 185px ;
+}
+
+.email{
+ display: block;
+ width: 400px;
+ padding: 10px 10px;
+ border: 1px solid grey;
+ border-radius: 5px;
+ margin-top: 15px;
+}
+
+.signup-button{
+ margin-top: 15px;
+ width: 420px;
+ padding: 15px 100px;
+ border: none;
+ border-radius: 5px;
+ background-color: rgb(50, 137, 252);
+ color: #fff;
+ font-weight: bold;
+ font-size: 20px;
+ text-align: center;
+}
