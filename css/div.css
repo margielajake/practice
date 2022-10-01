@@ -131,3 +131,30 @@ body{
  margin-top: 25px;
 }
 
+.nested{
+ vertical-align: center;
+}
+
+.nested p, .nested h3{
+ margin-top: 0;
+ margin-bottom: 0;
+ margin-left: 10px;
+}
+
+.nested-paragraph{
+ display: inline-block;
+ vertical-align: middle;
+}
+
+.nested-button{
+ background-color: rgb(24, 124, 255);
+ border: none;
+ padding: 10px 20px;
+ color: #fff;
+ font-size: 20px;
+ font-weight: bold;
+ margin-left: 50px;
+ border-radius: 5px;
+ vertical-align: middle;
+}
+
